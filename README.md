@@ -1,5 +1,13 @@
 # Health-Insurance-Cross-Sell-Prediction
 
+<p align="center">
+  <img 
+    width="600"
+    height="400"
+    src="https://user-images.githubusercontent.com/88892880/166884633-c3fcb899-cd9b-4155-87ee-c0348eaf6031.png"
+  >
+</p>
+
 **Problem Statement:** 
 
 Insurance is the process by which companies commit to guaranteeing compensation for specified loss, damage, illness, or death as reimbursement for a specific premium.
