@@ -70,3 +70,6 @@ The objective of this project is to build a Model to predict whether the policyh
   Train ROC-AUC = 95.97
 
   Test ROC-AUC = 95.73
+  
+ #
+ **References:** https://builtin.com/data-science/supervised-machine-learning-classification
