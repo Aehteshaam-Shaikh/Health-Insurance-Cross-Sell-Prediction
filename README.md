@@ -72,4 +72,18 @@ The objective of this project is to build a Model to predict whether the policyh
   Test ROC-AUC = 95.73
   
  #
+ 
+ **Execution Instructions**
+
+1. To run on your local system:
+
+* Step I: Use this command to install required libraries: pip install -r requirements.txt
+
+* Step II: After it run the ipynb file using any IDE on your local system.
+
+
+2. You can directly run the ipynb file on google colab.
+
+
+#
  **References:** https://builtin.com/data-science/supervised-machine-learning-classification
